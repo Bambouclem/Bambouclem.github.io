@@ -8,3 +8,23 @@ defaultContentLanguage: en
 
 # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
 hiddenPostSummaryInHomePage: false
+
+social:
+  # e.g.
+  # github: your-github-link
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
+
+
+params:
+  # Site Author
+  author: Clémentine Boussange
+  # Author biography
+  bio: Ingénieure agronome, en mission chez [Enfants du Mékong](https://www.enfantsdumekong.com)
+  # Site Description, used in HTML meat
+  description: Site web personnel
+
+
+# To enable RSS, you could set `enableRSS: true`, default is `true`
+enableRSS: true
+showPowerBy: false
