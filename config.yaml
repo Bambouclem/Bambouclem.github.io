@@ -1,0 +1,10 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Clémentine Boussange
+theme: mini
+
+# Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish) / da (Danish), default 'en'
+defaultContentLanguage: en
+
+# To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
+hiddenPostSummaryInHomePage: false
