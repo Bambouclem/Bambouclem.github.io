@@ -25,4 +25,4 @@ jobs:
         TARGET_REPO: Bambouclem/Bambouclem.github.io
         TARGET_BRANCH: gh-pages
         TOKEN: ${{ secrets.TOKEN_HUGO_DEPLOY }}
-        CNAME: vboussange.github.io
+        CNAME: Bambouclem.github.io
