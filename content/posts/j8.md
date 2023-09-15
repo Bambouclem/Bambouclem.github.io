@@ -1,7 +1,7 @@
 ---
 title: Journal de mission ~ Jour 8
 date: "2023-09-12"
-summary: " Premier jour en tant que « teacher clem ». Je donne 3 heures de cours ce matin à l’école des Birmans. J’ai de la chance je suis tombée sur la semaine avec le thème "Healthy habits and cooking" "
+summary: "Premier jour en tant que teacher clem. Je donne 3 heures de cours ce matin à l’école des Birmans. J’ai de la chance je suis tombée sur la semaine avec le thème Healthy habits and cooking"
 ---
 
 Premier jour en tant que « teacher clem ». Je donne 3 heures de cours ce matin à l’école des Birmans. J’ai de la chance je suis tombée sur la semaine avec le thème "Healthy habits and cooking" . Je ne suis pas trop perdue. Je commence avec le groupe des grands et Fantine. On dresse une liste d’ingrédient, on travaille la prononciation et on termine par un pendu. C’était chouette. Je ne peux pas en dire autant des 2 heures qui suivent, c’est un cours d’art plastique où les enfants travaillent plus la voix que le dessin. Je n’ai plus de tympan ni de patience. 
