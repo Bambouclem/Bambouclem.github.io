@@ -53,7 +53,7 @@ social:
 #   link: https://github.com/vboussange
 - icon: linkedin
   icon_pack: fab
-  link: https://fr.linkedin.com/clémentine-boussange
+  link: https://fr.linkedin.com/in/clémentine-boussange
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
