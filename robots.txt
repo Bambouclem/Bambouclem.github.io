@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bambouclem.github.io/sitemap.xml
